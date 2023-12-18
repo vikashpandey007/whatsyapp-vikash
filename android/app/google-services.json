@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "346454275941",
+    "firebase_url": "https://whatsyapp-tme-default-rtdb.firebaseio.com",
+    "project_id": "whatsyapp-tme",
+    "storage_bucket": "whatsyapp-tme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346454275941:android:3c2e28b9cc4da66b3d938c",
+        "android_client_info": {
+          "package_name": "com.tme.whatsyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb0y_P8Wj4VNhX5fzmAk4Fwrl9gFrEkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346454275941:android:3bd3d5eb7914849d3d938c",
+        "android_client_info": {
+          "package_name": "com.tme.whatsyapp_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb0y_P8Wj4VNhX5fzmAk4Fwrl9gFrEkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
